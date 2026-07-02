@@ -1,6 +1,6 @@
 # Snack Print
 
-A "carbon till" for 100+ everyday snacks. Pick items off a virtual shelf, drop them on the till, and a printer-style receipt breaks down the modelled CO₂e by life-cycle stage (agriculture, processing, packaging, transport, retail) with regional transport adjustments and everyday equivalences (km driven, hot showers).
+A "carbon till" for 100+ everyday [snacks](https://xuanx1.github.io/snack-y/Snack%20Print.html). Pick items off a virtual shelf, drop them on the till, and a printer-style receipt breaks down the modelled CO₂e by life-cycle stage (agriculture, processing, packaging, transport, retail) with regional transport adjustments and everyday equivalences (km driven, hot showers).
 
 > Carbon values are **modelled teaching estimates** built on the structure of Poore & Nemecek (2018, *Science*) life-cycle emission factors crossed with Open Food Facts category patterns. They are not measurements of any specific commercial product.
 
